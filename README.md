@@ -4,7 +4,7 @@ I'm Yogi Islami, a Mobile Developer passionate about building awesome mobile exp
 
 **Favorite Tech Stack:**  PHP, Kotlin, Dart
 
-**Reach out:** yogiihs28@gmail.com
+**Reach out:** Yogiihs28@gmail.com
 
 <br>
 <br>
