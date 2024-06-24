@@ -1,26 +1,16 @@
-### Hi there 👋
-I'm Yogi islami<br>
-I focus on Android development, both Android Kotlin and Flutter
+**Hey there 👋**
 
-<!--
-**itsmeyogs/itsmeyogs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Yogi Islami, a Mobile Developer passionate about building awesome mobile experiences.  I'm constantly learning and grinding to push the boundaries of what's possible.
 
-Here are some ideas to get you started:
+**Favorite Tech Stack:**  PHP, Kotlin, Dart
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Reach out:** yogiihs28@gmail.com
 
-### Github Statistic
-<p align="left">
-<a href="https://github.com/itsmeyogs">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=itsmeyogs&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+<br>
+<br>
+
+**GitHub Stats:**
+
+[![GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=itsmeyogs&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)](https://github.com/itsmeyogs)
+[![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=itsmeyogs&layout=compact&langs_count=8&theme=algolia)](https://github.com/itsmeyogs)
 
