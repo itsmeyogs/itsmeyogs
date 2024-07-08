@@ -1,6 +1,7 @@
 **Hey there 👋**
 
-I'm Yogi Islami, a Mobile Developer passionate about building awesome mobile experiences.  I'm constantly learning and grinding to push the boundaries of what's possible.
+I'm Yogi Islami, a Mobile Developer passionate about building awesome mobile experiences.<br>
+I'm constantly learning and grinding to push the boundaries of what's possible.
 
 **Favorite Tech Stack:**  PHP, Kotlin, Dart ...
 
